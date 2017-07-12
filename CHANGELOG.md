@@ -1,6 +1,7 @@
 
 # Changelog
 
+- @doubleshow added `cv.readImageColor` method.
 
 ## 6.0.0
 

@@ -1,8 +1,8 @@
 {
-  "name": "opencv",
-  "version": "6.0.0",
+  "name": "@doubleshow/opencv",
+  "version": "6.0.1",
   "description": "Node Bindings to OpenCV",
-  "author": "Peter Braden <peterbraden@peterbraden.co.uk>",
+  "author": ["Peter Braden <peterbraden@peterbraden.co.uk>", "Tom Yeh <tom.yeh@colorado.edu>"],
   "dependencies": {
     "buffers": "^0.1.1",
     "istanbul": "0.4.5",
